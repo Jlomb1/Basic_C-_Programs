@@ -1,0 +1,7 @@
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\MathConsoleAssignment\MathConsoleAssignment\bin\Debug\MathConsoleAssignment.exe.config
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\MathConsoleAssignment\MathConsoleAssignment\bin\Debug\MathConsoleAssignment.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\MathConsoleAssignment\MathConsoleAssignment\bin\Debug\MathConsoleAssignment.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\MathConsoleAssignment\MathConsoleAssignment\obj\Debug\MathConsoleAssignment.csproj.AssemblyReference.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\MathConsoleAssignment\MathConsoleAssignment\obj\Debug\MathConsoleAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\MathConsoleAssignment\MathConsoleAssignment\obj\Debug\MathConsoleAssignment.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\MathConsoleAssignment\MathConsoleAssignment\obj\Debug\MathConsoleAssignment.pdb
