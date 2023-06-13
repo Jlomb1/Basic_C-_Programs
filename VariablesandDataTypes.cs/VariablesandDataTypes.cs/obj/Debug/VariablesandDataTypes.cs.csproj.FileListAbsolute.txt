@@ -1,0 +1,14 @@
+C:\Users\jlomb\Documents\Basic_C#_Programs\VariablesandDataTypes.cs\VariablesandDataTypes.cs\bin\Debug\VariablesandDataTypes.cs.exe.config
+C:\Users\jlomb\Documents\Basic_C#_Programs\VariablesandDataTypes.cs\VariablesandDataTypes.cs\bin\Debug\VariablesandDataTypes.cs.exe
+C:\Users\jlomb\Documents\Basic_C#_Programs\VariablesandDataTypes.cs\VariablesandDataTypes.cs\bin\Debug\VariablesandDataTypes.cs.pdb
+C:\Users\jlomb\Documents\Basic_C#_Programs\VariablesandDataTypes.cs\VariablesandDataTypes.cs\obj\Debug\VariablesandDataTypes.cs.csproj.AssemblyReference.cache
+C:\Users\jlomb\Documents\Basic_C#_Programs\VariablesandDataTypes.cs\VariablesandDataTypes.cs\obj\Debug\VariablesandDataTypes.cs.csproj.CoreCompileInputs.cache
+C:\Users\jlomb\Documents\Basic_C#_Programs\VariablesandDataTypes.cs\VariablesandDataTypes.cs\obj\Debug\VariablesandDataTypes.cs.exe
+C:\Users\jlomb\Documents\Basic_C#_Programs\VariablesandDataTypes.cs\VariablesandDataTypes.cs\obj\Debug\VariablesandDataTypes.cs.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\VariablesandDataTypes.cs\VariablesandDataTypes.cs\bin\Debug\VariablesandDataTypes.cs.exe.config
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\VariablesandDataTypes.cs\VariablesandDataTypes.cs\bin\Debug\VariablesandDataTypes.cs.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\VariablesandDataTypes.cs\VariablesandDataTypes.cs\bin\Debug\VariablesandDataTypes.cs.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\VariablesandDataTypes.cs\VariablesandDataTypes.cs\obj\Debug\VariablesandDataTypes.cs.csproj.AssemblyReference.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\VariablesandDataTypes.cs\VariablesandDataTypes.cs\obj\Debug\VariablesandDataTypes.cs.csproj.CoreCompileInputs.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\VariablesandDataTypes.cs\VariablesandDataTypes.cs\obj\Debug\VariablesandDataTypes.cs.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\VariablesandDataTypes.cs\VariablesandDataTypes.cs\obj\Debug\VariablesandDataTypes.cs.pdb

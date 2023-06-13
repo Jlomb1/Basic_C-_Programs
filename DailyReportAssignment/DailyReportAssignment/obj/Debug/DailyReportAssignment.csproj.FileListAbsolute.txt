@@ -1,0 +1,7 @@
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.exe.config
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\bin\Debug\DailyReportAssignment.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.csproj.AssemblyReference.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\DailyReportAssignment\DailyReportAssignment\obj\Debug\DailyReportAssignment.pdb
