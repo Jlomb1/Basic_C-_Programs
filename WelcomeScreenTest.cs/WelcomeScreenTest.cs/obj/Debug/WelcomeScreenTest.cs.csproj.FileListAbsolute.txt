@@ -1,0 +1,7 @@
+C:\Users\jlomb\Documents\Basic_C#_Programs\WelcomeScreenTest.cs\WelcomeScreenTest.cs\bin\Debug\WelcomeScreenTest.cs.exe.config
+C:\Users\jlomb\Documents\Basic_C#_Programs\WelcomeScreenTest.cs\WelcomeScreenTest.cs\bin\Debug\WelcomeScreenTest.cs.exe
+C:\Users\jlomb\Documents\Basic_C#_Programs\WelcomeScreenTest.cs\WelcomeScreenTest.cs\bin\Debug\WelcomeScreenTest.cs.pdb
+C:\Users\jlomb\Documents\Basic_C#_Programs\WelcomeScreenTest.cs\WelcomeScreenTest.cs\obj\Debug\WelcomeScreenTest.cs.csproj.AssemblyReference.cache
+C:\Users\jlomb\Documents\Basic_C#_Programs\WelcomeScreenTest.cs\WelcomeScreenTest.cs\obj\Debug\WelcomeScreenTest.cs.csproj.CoreCompileInputs.cache
+C:\Users\jlomb\Documents\Basic_C#_Programs\WelcomeScreenTest.cs\WelcomeScreenTest.cs\obj\Debug\WelcomeScreenTest.cs.exe
+C:\Users\jlomb\Documents\Basic_C#_Programs\WelcomeScreenTest.cs\WelcomeScreenTest.cs\obj\Debug\WelcomeScreenTest.cs.pdb
