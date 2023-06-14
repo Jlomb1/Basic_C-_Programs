@@ -37,13 +37,13 @@ namespace IncomeComparisonProgram
 
             // Hourly rate multiplied by hours worked for Person 1
             double annualSalary = hourlyTotal * workTotal;
-            double salaryTotal = annualSalary * 52.14;
+            double salaryTotal = annualSalary * 52;
             Console.WriteLine("Annual salary of Person 1: " + salaryTotal);
 
 
             // Hourly rate multiplied by hours worked for Person 2
             double annualSalary2 = hourlyTotal2 * workTotal2;
-            double salaryTotal2 = annualSalary2 * 52.14;
+            double salaryTotal2 = annualSalary2 * 52;
             Console.WriteLine("Annual salary of Person 2: " + salaryTotal2);
 
             // Boolean determines if Person 1 makes more than Person 2 (i.e true or false)

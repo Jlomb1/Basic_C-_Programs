@@ -1,0 +1,7 @@
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\BooleanLogicExamples\BooleanLogicExamples\bin\Debug\BooleanLogicExamples.exe.config
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\BooleanLogicExamples\BooleanLogicExamples\bin\Debug\BooleanLogicExamples.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\BooleanLogicExamples\BooleanLogicExamples\bin\Debug\BooleanLogicExamples.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\BooleanLogicExamples\BooleanLogicExamples\obj\Debug\BooleanLogicExamples.csproj.AssemblyReference.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\BooleanLogicExamples\BooleanLogicExamples\obj\Debug\BooleanLogicExamples.csproj.CoreCompileInputs.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\BooleanLogicExamples\BooleanLogicExamples\obj\Debug\BooleanLogicExamples.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\BooleanLogicExamples\BooleanLogicExamples\obj\Debug\BooleanLogicExamples.pdb
