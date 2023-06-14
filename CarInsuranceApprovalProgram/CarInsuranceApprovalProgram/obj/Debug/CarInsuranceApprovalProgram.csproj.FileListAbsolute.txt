@@ -1,0 +1,7 @@
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\bin\Debug\CarInsuranceApprovalProgram.exe.config
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\bin\Debug\CarInsuranceApprovalProgram.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\bin\Debug\CarInsuranceApprovalProgram.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\obj\Debug\CarInsuranceApprovalProgram.csproj.AssemblyReference.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\obj\Debug\CarInsuranceApprovalProgram.csproj.CoreCompileInputs.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\obj\Debug\CarInsuranceApprovalProgram.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\CarInsuranceApprovalProgram\CarInsuranceApprovalProgram\obj\Debug\CarInsuranceApprovalProgram.pdb
