@@ -1,0 +1,7 @@
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\bin\Debug\IncomeComparisonProgram.exe.config
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\bin\Debug\IncomeComparisonProgram.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\bin\Debug\IncomeComparisonProgram.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\IncomeComparisonProgram.csproj.AssemblyReference.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\IncomeComparisonProgram.csproj.CoreCompileInputs.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\IncomeComparisonProgram.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\IncomeComparisonProgram\IncomeComparisonProgram\obj\Debug\IncomeComparisonProgram.pdb
