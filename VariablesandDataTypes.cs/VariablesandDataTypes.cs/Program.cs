@@ -104,16 +104,62 @@ namespace VariablesandDataTypes.cs
             //Console.WriteLine(trueOrFalse.ToString());
             //Console.ReadLine();
 
-            int roomTemp = 70;
-            int currentTemp = 70;
+            //int roomTemp = 70;
+            //int currentTemp = 70;
 
-            //bool isWarm = currentTemp <= roomTemp;
-            bool isWarm = currentTemp == roomTemp; //OR '!=' which is NOT EQUAL
+            ////bool isWarm = currentTemp <= roomTemp;
+            //bool isWarm = currentTemp == roomTemp; //OR '!=' which is NOT EQUAL
 
-            Console.WriteLine(isWarm);
+            //Console.WriteLine(isWarm);
+            //Console.ReadLine();
+
+            //string name = "joe";
+
+            //if (name == "joe")
+            //{
+            //    Console.WriteLine("joe who?");
+            //    Console.ReadLine();
+            //}
+            //else if (name == "joe who?")
+            //{
+            //    Console.WriteLine("joe mama!");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("joe who?");
+            //    Console.ReadLine();
+            //}
+
+            //string name2 = "jak";
+
+            //if (name2 == "jack")
+            //{
+            //    Console.WriteLine("Hello jack!");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Wait a minute....Your not jack...");
+            //}
+            //Console.ReadLine();
+
+            //int age = 12;
+
+            //if (age < 21)
+            //{
+            //    Console.WriteLine("You may not purchase this bottle of fine wine.");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Your total will be $20.00 have a great day!");
+            //}
+            //Console.ReadLine();
+
+            int num1 = 50;
+            int num2 = 55;
+
+            string result = num1 < num2 ? "numOne is less than numTwo" : "numOne is NOT less than numTwo";
+            Console.WriteLine(result);
             Console.ReadLine();
-
-
 
 
         }
