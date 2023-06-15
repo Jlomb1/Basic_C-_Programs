@@ -1,0 +1,7 @@
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\StringFunctionsExamples\StringFunctionsExamples\bin\Debug\StringFunctionsExamples.exe.config
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\StringFunctionsExamples\StringFunctionsExamples\bin\Debug\StringFunctionsExamples.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\StringFunctionsExamples\StringFunctionsExamples\bin\Debug\StringFunctionsExamples.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\StringFunctionsExamples\StringFunctionsExamples\obj\Debug\StringFunctionsExamples.csproj.AssemblyReference.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\StringFunctionsExamples\StringFunctionsExamples\obj\Debug\StringFunctionsExamples.csproj.CoreCompileInputs.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\StringFunctionsExamples\StringFunctionsExamples\obj\Debug\StringFunctionsExamples.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\StringFunctionsExamples\StringFunctionsExamples\obj\Debug\StringFunctionsExamples.pdb
