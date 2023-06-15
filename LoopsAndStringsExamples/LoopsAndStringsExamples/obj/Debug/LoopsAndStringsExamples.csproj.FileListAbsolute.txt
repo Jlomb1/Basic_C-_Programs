@@ -1,0 +1,7 @@
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\LoopsAndStringsExamples\LoopsAndStringsExamples\bin\Debug\LoopsAndStringsExamples.exe.config
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\LoopsAndStringsExamples\LoopsAndStringsExamples\bin\Debug\LoopsAndStringsExamples.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\LoopsAndStringsExamples\LoopsAndStringsExamples\bin\Debug\LoopsAndStringsExamples.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\LoopsAndStringsExamples\LoopsAndStringsExamples\obj\Debug\LoopsAndStringsExamples.csproj.AssemblyReference.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\LoopsAndStringsExamples\LoopsAndStringsExamples\obj\Debug\LoopsAndStringsExamples.csproj.CoreCompileInputs.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\LoopsAndStringsExamples\LoopsAndStringsExamples\obj\Debug\LoopsAndStringsExamples.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\LoopsAndStringsExamples\LoopsAndStringsExamples\obj\Debug\LoopsAndStringsExamples.pdb
