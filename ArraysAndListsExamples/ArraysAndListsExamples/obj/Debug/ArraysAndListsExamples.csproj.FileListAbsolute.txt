@@ -1,0 +1,7 @@
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ArraysAndListsExamples\ArraysAndListsExamples\bin\Debug\ArraysAndListsExamples.exe.config
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ArraysAndListsExamples\ArraysAndListsExamples\bin\Debug\ArraysAndListsExamples.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ArraysAndListsExamples\ArraysAndListsExamples\bin\Debug\ArraysAndListsExamples.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ArraysAndListsExamples\ArraysAndListsExamples\obj\Debug\ArraysAndListsExamples.csproj.AssemblyReference.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ArraysAndListsExamples\ArraysAndListsExamples\obj\Debug\ArraysAndListsExamples.csproj.CoreCompileInputs.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ArraysAndListsExamples\ArraysAndListsExamples\obj\Debug\ArraysAndListsExamples.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ArraysAndListsExamples\ArraysAndListsExamples\obj\Debug\ArraysAndListsExamples.pdb

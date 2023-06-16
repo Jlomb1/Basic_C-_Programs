@@ -21,11 +21,21 @@ namespace StringFunctionsExamples
             //Console.WriteLine(name);
             //Console.ReadLine();
 
-            string name = "joe";
-            name = "mama";
+            //string name = "joe";
+            //name = "mama";
 
+            //Console.WriteLine(name);
+            //Console.ReadLine();
 
-            Console.WriteLine(name);
+            string fName = "John";
+            string mName = "Jacob";
+            string lName = "jingleheimerschmidt";
+
+            // Note on "StringBuilder", cannot locate on console as a usable element. 
+
+            mName = mName.ToUpper();
+
+            Console.WriteLine(fName + " " + mName + " " + lName);
             Console.ReadLine();
         }
     }
