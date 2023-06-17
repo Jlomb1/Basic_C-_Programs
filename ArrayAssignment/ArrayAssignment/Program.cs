@@ -9,31 +9,26 @@ namespace ArrayAssignment
         static void Main()
         {
 
-            List<string> arrayList = new List<string>(); // String list 
-            arrayList.Add("cat");
-            arrayList.Add("dog");
-            arrayList.Add("mouse");
-            arrayList.Add("fox");
-            arrayList.Add("horse");
-            arrayList.Add("cow");
-            arrayList.Add("pig");
-            arrayList.Add("bob");
+            string[] arrayList = new string[5]; // One-dimensional array of string 
+            arrayList[0] = "cat";
+            arrayList[1] = "dog";
+            arrayList[2] = "mouse";
+            arrayList[3] = "fox";
+            arrayList[4] = "bob";
 
-            List<int> intList = new List<int>(); // Integer list 
-            intList.Add(0);
-            intList.Add(1);
-            intList.Add(2);
-            intList.Add(3);
-            intList.Add(4);
-            intList.Add(5);
+            int[] intList = new int[5]; //One_Dimensional array of intengers 
+            intList[0] = 5;
+            intList[1] = 10;
+            intList[2] = 15;
+            intList[3] = 20;
+            intList[4] = 25;
 
-
-            Console.WriteLine("Please select an animal from the array (0-7):"); // User input for string array selection.
+            Console.WriteLine("Please select an animal from the array 0-4:"); // User input for STRING array selection.
             string arrayCon = Console.ReadLine();
             int arrayInt = Convert.ToInt32(arrayCon);
             int arrayInput = arrayInt;
 
-            if (arrayInput > 7) // If user input is out side array then error message displays.
+            if (arrayInput > 4) // If user input is out side array then error message displays.
             {
                 Console.WriteLine("Uh oh! The number you have entered does not exist!");
                 Console.ReadLine();
@@ -42,29 +37,35 @@ namespace ArrayAssignment
             {
                 Console.WriteLine("You chose " + arrayList[arrayInput] + " from the array.");
 
-                Console.WriteLine("How many of these would you like? Please choose up to 6:"); // User input for integer array.
+                Console.WriteLine("How many of these would you like? Please choose from 0-4 in the array:"); // User input for INTEGER array.
                 string intCon = Console.ReadLine();
                 int howManyInt = Convert.ToInt32(intCon);
                 int howManyInput = howManyInt;
 
-                if (howManyInput > 6) // If user input is out side array then error displays. 
+                if (howManyInput > 4) // If user input is out side array then error displays. 
                 {
                     Console.WriteLine("Uh oh! That\'s too many pets!");
                     Console.ReadLine();
                 }
                 else // Displays the int element in the array.
                 {
-                    Console.WriteLine("You will receive " + howManyInput + " of the animal you have chosen!");
+                    Console.WriteLine("You will receive " + intList[howManyInput] + " of the animal you have chosen!");
                 }
             }
 
-            string[] numArray = new string[] { "Colorado", "Nevada", "Texas", "Oregon", "Florida" }; // One dimensional array example.
+            List<string> stringList = new List<string>(); // list of strings.
+            stringList.Add("Colorado");
+            stringList.Add("Orgeon");
+            stringList.Add("Texas");
+            stringList.Add("Florida");
+            stringList.Add("Alabama");
 
             Console.WriteLine("Please select from the array to display a state (0 - 4):"); // User input for the string array.
-            string oneDarray = Console.ReadLine();
-            int arrayExp = Convert.ToInt32(oneDarray);
+            string listStr = Console.ReadLine();
+            int arrayExp = Convert.ToInt32(listStr);
             int arrayOut = arrayExp;
-            Console.WriteLine("Looks like your moving to " + numArray[arrayOut] + "!");
+            Console.WriteLine("Looks like your moving to " + stringList[arrayOut] + "!");
+
             Console.ReadLine();
 
         }
