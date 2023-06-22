@@ -1,0 +1,7 @@
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ExceptionsHandlingExamples\ExceptionsHandlingExamples\bin\Debug\ExceptionsHandlingExamples.exe.config
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ExceptionsHandlingExamples\ExceptionsHandlingExamples\bin\Debug\ExceptionsHandlingExamples.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ExceptionsHandlingExamples\ExceptionsHandlingExamples\bin\Debug\ExceptionsHandlingExamples.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ExceptionsHandlingExamples\ExceptionsHandlingExamples\obj\Debug\ExceptionsHandlingExamples.csproj.AssemblyReference.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ExceptionsHandlingExamples\ExceptionsHandlingExamples\obj\Debug\ExceptionsHandlingExamples.csproj.CoreCompileInputs.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ExceptionsHandlingExamples\ExceptionsHandlingExamples\obj\Debug\ExceptionsHandlingExamples.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ExceptionsHandlingExamples\ExceptionsHandlingExamples\obj\Debug\ExceptionsHandlingExamples.pdb

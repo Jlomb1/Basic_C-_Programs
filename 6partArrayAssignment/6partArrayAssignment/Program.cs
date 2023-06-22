@@ -143,9 +143,9 @@ namespace _6partArrayAssignment
             Console.ReadLine();
 
 
-            //PART 6 ------------------------ use List.Contains(what ever the variable would be via aimalFav)
-            //use an If/Else stmnt to check if variable is in second list
-            // if it is; "this item is a dup" - else "this item is unique" + add variable to the second list
+            // PART 6 ------------------------ use List.Contains(what ever the variable would be via aimalFav)
+            // Use an If/Else stmnt to check if variable is in second list
+            // If it is; "this item is a dup" - else "this item is unique" + add variable to the second list
             List<string> stringListThree = new List<string>(); // Created a list of string names.
             stringListThree.Add("Adam");
             stringListThree.Add("Joe");
@@ -163,19 +163,19 @@ namespace _6partArrayAssignment
 
             Console.WriteLine("Here is an example of iterating through the list and finding what is a dup and what is unique.");
 
-            foreach (string uniquelo in stringListThree) // iterates through stringListThree to find the duplicate.
+            foreach (string uniquelo in stringListThree) // Iterates through stringListThree to find the duplicate.
             {               
-                if (stringListDupPass.Contains(uniquelo)) //
+                if (stringListDupPass.Contains(uniquelo)) // This says; IF you find example name "bob" again print "this name is a dup".
                 {
                     Console.WriteLine(uniquelo + " - this name is a duplicate"); 
                 }
                 else
                 {
-                    Console.WriteLine(uniquelo + " - this name is unique");
-                    stringListDupPass.Add(uniquelo);
+                    Console.WriteLine(uniquelo + " - this name is unique"); // ELSE if you dont find example name "bob" again, print "this name is unique".
+                    stringListDupPass.Add(uniquelo); // THEN add the unique name to stringListDupPass
                 }
             }
-            Console.WriteLine(stringListDupPass.Count);
+            Console.WriteLine(stringListDupPass.Count); // Prints the amount in this list.
             Console.ReadLine();
         }
     }
