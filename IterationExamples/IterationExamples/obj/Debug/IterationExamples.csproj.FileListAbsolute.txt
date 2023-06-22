@@ -1,0 +1,7 @@
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\IterationExamples\IterationExamples\bin\Debug\IterationExamples.exe.config
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\IterationExamples\IterationExamples\bin\Debug\IterationExamples.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\IterationExamples\IterationExamples\bin\Debug\IterationExamples.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\IterationExamples\IterationExamples\obj\Debug\IterationExamples.csproj.AssemblyReference.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\IterationExamples\IterationExamples\obj\Debug\IterationExamples.csproj.CoreCompileInputs.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\IterationExamples\IterationExamples\obj\Debug\IterationExamples.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\IterationExamples\IterationExamples\obj\Debug\IterationExamples.pdb

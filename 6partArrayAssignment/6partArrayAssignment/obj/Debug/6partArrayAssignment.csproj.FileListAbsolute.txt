@@ -1,0 +1,7 @@
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\6partArrayAssignment\6partArrayAssignment\bin\Debug\6partArrayAssignment.exe.config
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\6partArrayAssignment\6partArrayAssignment\bin\Debug\6partArrayAssignment.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\6partArrayAssignment\6partArrayAssignment\bin\Debug\6partArrayAssignment.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\6partArrayAssignment\6partArrayAssignment\obj\Debug\6partArrayAssignment.csproj.AssemblyReference.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\6partArrayAssignment\6partArrayAssignment\obj\Debug\6partArrayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\6partArrayAssignment\6partArrayAssignment\obj\Debug\6partArrayAssignment.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\6partArrayAssignment\6partArrayAssignment\obj\Debug\6partArrayAssignment.pdb
