@@ -1,0 +1,7 @@
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodsAssignment\MainMethodsAssignment\bin\Debug\MainMethodsAssignment.exe.config
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodsAssignment\MainMethodsAssignment\bin\Debug\MainMethodsAssignment.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodsAssignment\MainMethodsAssignment\bin\Debug\MainMethodsAssignment.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodsAssignment\MainMethodsAssignment\obj\Debug\MainMethodsAssignment.csproj.AssemblyReference.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodsAssignment\MainMethodsAssignment\obj\Debug\MainMethodsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodsAssignment\MainMethodsAssignment\obj\Debug\MainMethodsAssignment.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\MainMethodsAssignment\MainMethodsAssignment\obj\Debug\MainMethodsAssignment.pdb

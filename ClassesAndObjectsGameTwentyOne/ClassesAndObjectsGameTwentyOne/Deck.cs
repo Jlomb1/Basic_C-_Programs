@@ -8,7 +8,7 @@ namespace ClassesAndObjectsGameTwentyOne
 {
     public class Deck
     {
-        public Deck() // Constructor (remember this assigns values to an object immedietly upon creation. 
+        public Deck() // Constructor (remember this assigns values to an object immedietly upon creation). 
         {
             // This is essentially creating a deck of 52 cards by using the foreach loop 
             // instead of having to manually add each individual card every time for the program. 
