@@ -8,7 +8,7 @@ namespace MethodClassAssignment
 {
     public class MathClass
     {
-        public void MathOp(int data = 25, int data2 = 62) // "Void" indicates to NOT returning data. If "int" were in its place
+        public void MathOp(int data, int data2) // "Void" indicates to NOT returning data. If "int" were in its place
                                                           // the class would then be returning an int, but void means nothing is returned.
         {
             var result = data * 4;

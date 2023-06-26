@@ -12,8 +12,10 @@ namespace MethodClassAssignment
         {
             var mathOperation = new MathClass(); // Instantiate an instants of MathClass.
 
-            int num1 = Convert.ToInt32(Console.ReadLine()); // Get two int from user.
-            int num2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Please enter a number: "); // first number from user (data/result)
+            int num1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Please enter another number: ");
+            int num2 = Convert.ToInt32(Console.ReadLine()); // second number from user (data2)
 
             mathOperation.MathOp(num1, num2); // Call MathOp method in the MathClass w/ user input num1 and num2.
             mathOperation.MathOp(data: num1, data2: num2); // call method again specifying the "parameter" names.
