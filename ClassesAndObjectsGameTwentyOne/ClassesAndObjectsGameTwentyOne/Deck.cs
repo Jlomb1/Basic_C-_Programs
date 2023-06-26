@@ -32,6 +32,27 @@ namespace ClassesAndObjectsGameTwentyOne
             }
 
         }
-        public List<Card> Cards { get; set; }  
+        public List<Card> Cards { get; set; }
+
+        // Reminder "static" is in place so we dont have to create an object program before calling this method.
+        public void Shuffle(int times = 1)
+        {
+            for (int i = 0; i < times; i++)
+            {
+                // Creating a temporary list of cards where we store our shuffled items. 
+                List<Card> TempList = new List<Card>();
+                // "Random" is a built in class through the .NET Framwork
+                Random random = new Random();
+
+                // This is the method.
+                while (Cards.Count > 0)
+                {
+                    int randomIndex = random.Next(0, Cards.Count); //0 to 52.
+                    TempList.Add(Cards[randomIndex]);
+                    Cards.RemoveAt(randomIndex); //RemoveAt is a function of the "list" method.
+                }
+                Cards = TempList;
+            }
+        }
     }
 }

@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4E2269C0-F9CE-4D9E-80DD-67448CC22914}</ProjectGuid>
+    <ProjectGuid>{BB4E12C9-79ED-46CC-A062-917586870D47}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MainMethodsAssignment</RootNamespace>
-    <AssemblyName>MainMethodsAssignment</AssemblyName>
+    <RootNamespace>Methods2Assigment</RootNamespace>
+    <AssemblyName>Methods2Assigment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Math1.cs" />
+    <Compile Include="MathPar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

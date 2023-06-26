@@ -17,6 +17,5 @@ namespace ClassesAndObjectsGameTwentyOne
         // By making this property 'public' it means its accessible to other parts of the program.
         public string Suit { get; set; } // The card class has a property of data type string called "suit" you can 'get' the property or 'set' the property.
         public string Face { get; set; } 
-
     }
 }

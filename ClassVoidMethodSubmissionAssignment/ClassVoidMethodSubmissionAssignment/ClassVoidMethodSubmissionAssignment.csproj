@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{4E2269C0-F9CE-4D9E-80DD-67448CC22914}</ProjectGuid>
+    <ProjectGuid>{FA44BC55-1D05-4027-898F-E17E00976579}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MainMethodsAssignment</RootNamespace>
-    <AssemblyName>MainMethodsAssignment</AssemblyName>
+    <RootNamespace>ClassVoidMethodSubmissionAssignment</RootNamespace>
+    <AssemblyName>ClassVoidMethodSubmissionAssignment</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Math1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

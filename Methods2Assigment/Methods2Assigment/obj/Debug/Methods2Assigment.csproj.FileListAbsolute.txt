@@ -1,0 +1,7 @@
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\Methods2Assigment\Methods2Assigment\bin\Debug\Methods2Assigment.exe.config
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\Methods2Assigment\Methods2Assigment\bin\Debug\Methods2Assigment.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\Methods2Assigment\Methods2Assigment\bin\Debug\Methods2Assigment.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\Methods2Assigment\Methods2Assigment\obj\Debug\Methods2Assigment.csproj.AssemblyReference.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\Methods2Assigment\Methods2Assigment\obj\Debug\Methods2Assigment.csproj.CoreCompileInputs.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\Methods2Assigment\Methods2Assigment\obj\Debug\Methods2Assigment.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\Methods2Assigment\Methods2Assigment\obj\Debug\Methods2Assigment.pdb
