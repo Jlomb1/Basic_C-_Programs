@@ -17,10 +17,10 @@ namespace ClassesAndObjectsGameTwentyOne
             // In the abstract class you can have the abstract methods which dont have implementation, but then theres virtual methods which 
             // do have implementation, so you can put in some default implementation, but that can be overridden or part of it can be overridden
             // or add, remove, etc. See below as an example utilizing the Game abstract class and the TwentyOneGame class.
-            //TwentyOneGame game = new TwentyOneGame();
-            //game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
-            //game.ListPlayers();
-            //Console.ReadLine();
+            TwentyOneGame game = new TwentyOneGame();
+            game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
+            game.ListPlayers();
+            Console.ReadLine();
 
             Deck deck = new Deck();
             deck.Shuffle(3); // This is something to assign the returned deck to, if you comment this out it will be in order.

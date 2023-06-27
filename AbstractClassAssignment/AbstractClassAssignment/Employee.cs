@@ -6,11 +6,15 @@ using System.Threading.Tasks;
 
 namespace AbstractClassAssignment
 {
-    public class Employee : Person // Created class Employee that inherits (i.e ":") from the Person class. 
+    public class Employee : Person, IQuittable // Created class Employee that inherits (i.e ":") from the Person class. 
     {
         public override void SayName() // We "override" the method to implement the abstract method in Person called SayName().
         {
             base.SayName(); // This is essentially an equal to the SayName() method in the abstract class Person.  
+        }
+        public void Quittable(Person person)
+        {
+            Console.WriteLine(FirstName + " " + LastName);
         }
     }
 }

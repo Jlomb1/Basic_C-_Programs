@@ -5,8 +5,8 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ClassesAndObjectsGameTwentyOne
-{
-    public class TwentyOneGame : Game // the ":" is how you inherit. Also "Game" has an abstract method called Play() which you have to implement.
+{   // the ":" is how you inherit. Also "Game" has an abstract method called Play() which you have to implement.
+    public class TwentyOneGame : Game, IWalkAway
     {
         public override void Play() // Use the "override" keyword to implement the abstract method in "Game" called "Play()". 
         {
@@ -18,6 +18,11 @@ namespace ClassesAndObjectsGameTwentyOne
 
             // This was automatically populated while creating the ListPlayers() because its the equal to the foreach method in Games abstract class.
             base.ListPlayers();
+        }
+        // We've satisfied the "IWalkAway" interface requirements because it matches the return type inside the interface.
+        public void WalkAway(Player player) // Has to be a void.
+        {
+            throw new NotImplementedException();
         }
     }
 }

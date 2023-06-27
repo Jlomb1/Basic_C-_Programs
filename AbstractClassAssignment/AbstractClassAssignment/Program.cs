@@ -15,6 +15,8 @@ namespace AbstractClassAssignment
             name.LastName = "Student";
             name.SayName(); // Here we are calling the SayName() method on the object. 
             Console.ReadLine();
+
+            
         }
     }
 }
