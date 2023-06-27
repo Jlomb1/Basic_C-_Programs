@@ -6,11 +6,18 @@ using System.Threading.Tasks;
 
 namespace ClassesAndObjectsGameTwentyOne
 {
-    public class TwentyOneGame : Game // the ":" is how you inherit.
+    public class TwentyOneGame : Game // the ":" is how you inherit. Also "Game" has an abstract method called Play() which you have to implement.
     {
-        public void Play()
+        public override void Play() // Use the "override" keyword to implement the abstract method in "Game" called "Play()". 
         {
             throw new NotImplementedException(); // If called it throws this error. 
+        }
+        public override void ListPlayers()
+        {
+            Console.WriteLine("21 Players: ");
+
+            // This was automatically populated while creating the ListPlayers() because its the equal to the foreach method in Games abstract class.
+            base.ListPlayers();
         }
     }
 }
