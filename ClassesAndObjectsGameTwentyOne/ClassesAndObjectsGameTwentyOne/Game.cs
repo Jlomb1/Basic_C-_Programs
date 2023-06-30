@@ -8,7 +8,7 @@ namespace ClassesAndObjectsGameTwentyOne
 {
     public abstract class Game // "abstract" keyword - This class can NEVER be instantiated (it can never be an object, only meant to be inherited from.
     {
-        public List<string> Players { get; set; }
+        public List<Player> Players { get; set; }
         public string Name { get; set; }
         public string Dealer { get; set; }
 
@@ -18,9 +18,9 @@ namespace ClassesAndObjectsGameTwentyOne
         public virtual void ListPlayers() // "virtual" method inside of an abstract class means that this method gets inherited by an inheriting class
                                           // but it has the ability to "override" it.
         {
-            foreach (string player in Players) // Remember "void" doesn't return anything its just printing to the console.
+            foreach (Player player in Players) // Remember "void" doesn't return anything its just printing to the console.
             {
-                Console.WriteLine(player);
+                Console.WriteLine(player.Name);
             }
         }
             

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassesAndObjectsGameTwentyOne
 {   // the ":" is how you inherit. Also "Game" has an abstract method called Play() which you have to implement.
-    public class TwentyOneGame : Game, IWalkAway
+    public class TwentyOneGame : Game, IWalkAway 
     {
         public override void Play() // Use the "override" keyword to implement the abstract method in "Game" called "Play()". 
         {

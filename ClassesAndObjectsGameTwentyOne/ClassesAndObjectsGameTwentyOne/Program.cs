@@ -17,10 +17,25 @@ namespace ClassesAndObjectsGameTwentyOne
             // In the abstract class you can have the abstract methods which dont have implementation, but then theres virtual methods which 
             // do have implementation, so you can put in some default implementation, but that can be overridden or part of it can be overridden
             // or add, remove, etc. See below as an example utilizing the Game abstract class and the TwentyOneGame class.
-            TwentyOneGame game = new TwentyOneGame();
-            game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
-            game.ListPlayers();
-            Console.ReadLine();
+
+            //TwentyOneGame game = new TwentyOneGame();
+            //game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
+            //game.ListPlayers();
+            //Console.ReadLine();
+
+            //// Operator Overloading ---------------
+            //Game game = new TwentyOneGame();
+            //game.Players = new List<Player>();
+            //Player player = new Player();
+            //player.Name = "Jesse";
+            //game += player;
+            //game -= player;
+
+            //// Enum example --------------------------------------
+            //Card card = new Card();
+            //card.Suit = Suit.Clubs;
+            //int underlyingValue = Convert.ToInt32(Suit.Diamonds);
+            //Console.WriteLine(underlyingValue);
 
             Deck deck = new Deck();
             deck.Shuffle(3); // This is something to assign the returned deck to, if you comment this out it will be in order.
@@ -32,6 +47,20 @@ namespace ClassesAndObjectsGameTwentyOne
             }
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
+            
+            //// Enums ----------------------------------
+            //DaysOfTheWeek day = DaysOfTheWeek.Friday;
+            //ConsoleColor color = ConsoleColor.DarkRed;
         }
+        //public enum DaysOfTheWeek
+        //{
+        //    Monday,
+        //    Tuesday,
+        //    Wesnesday,
+        //    Thursday,
+        //    Friday,
+        //    Saturday,
+        //    Sunday
+        //}
     }
 }

@@ -13,20 +13,14 @@ namespace ClassesAndObjectsGameTwentyOne
             // This is essentially creating a deck of 52 cards by using the foreach loop 
             // instead of having to manually add each individual card every time for the program. 
             Cards = new List<Card>();
-            List<string> Suits = new List<string>() { "clubs", "Hearts", "Diamonds", "Spades" };
-            List<string> Faces = new List<string>()
-            {
-                "Two", "Three", "Four", "Five", "Six", "Seven", "Eight",
-                "Nine", "Ten", "Jack", "Queen", "King", "Ace"
-            };
 
-            foreach (string face in Faces)
+            for (int i = 0; i < 13; i++)
             {
-                foreach (string suit in Suits)
+                for (int j = 0; j < 4; j++)
                 {
                     Card card = new Card();
-                    card.Suit = suit;
-                    card.Face = face;
+                    card.Face = (Face)i; // Example of casting - we are casting to Face, i (int).
+                    card.Suit = (Suit)j;
                     Cards.Add(card);
                 }
             }
