@@ -37,15 +37,24 @@ namespace ClassesAndObjectsGameTwentyOne
             //int underlyingValue = Convert.ToInt32(Suit.Diamonds);
             //Console.WriteLine(underlyingValue);
 
-            Deck deck = new Deck();
-            deck.Shuffle(3); // This is something to assign the returned deck to, if you comment this out it will be in order.
-                             // "3" in Shuffle is shuffling 3 times.
+            // Example of a "Struct".
+            int number = 5; // right click "int" to see definition.
 
-            foreach (Card card in deck.Cards)
-            {
-                Console.WriteLine(card.Face + " of " + card.Suit);
-            }
-            Console.WriteLine(deck.Cards.Count);
+            Card card1 = new Card();
+            Card card2 = card1;
+            card1.Face = Face.Eight;
+            card2.Face = Face.King;
+            Console.WriteLine(card1.Face);
+
+            //Deck deck = new Deck();
+            //deck.Shuffle(3); // This is something to assign the returned deck to, if you comment this out it will be in order.
+            //                 // "3" in Shuffle is shuffling 3 times.
+
+            //foreach (Card card in deck.Cards)
+            //{
+            //    Console.WriteLine(card.Face + " of " + card.Suit);
+            //}
+            //Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
             
             //// Enums ----------------------------------

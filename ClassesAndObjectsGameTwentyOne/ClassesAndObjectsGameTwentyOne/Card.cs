@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ClassesAndObjectsGameTwentyOne
 {
-     public class Card
+     public struct Card // Card class is changed to a "struct". A card is a small value and one you set the value of a card, you dont really want it changing.
     {
         //public Card() // Constructor (if we dont assign any values later these are the default values that are given to it).
         //{
