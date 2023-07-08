@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassesAndObjectsGameTwentyOne
+namespace Casino.Interfaces
 {
     interface IWalkAway // Naming Convetion - starts with "I" to let people know its an interface.
     {

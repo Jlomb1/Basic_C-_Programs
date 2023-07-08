@@ -4,10 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ClassesAndObjectsGameTwentyOne
+namespace Casino
 {
     public class Player
     {
+        // (Example of constructor call chain).
+        // What this constructor is saying is, assign "name" to "Name" but if they dont provide a beginning balance automatically assign 100.
+        public Player(string name) : this(name, 100)
+        {
+            // We do not have to have anything in here, this alone is enough to handle the below constructor 
+        }
         public Player(string name, int beginningBalance)
         {
             Hand = new List<Card>();

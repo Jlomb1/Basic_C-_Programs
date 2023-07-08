@@ -5,3 +5,6 @@ C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ClassesAndObjectsGame
 C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ClassesAndObjectsGameTwentyOne\ClassesAndObjectsGameTwentyOne\obj\Debug\ClassesAndObjectsGameTwentyOne.csproj.CoreCompileInputs.cache
 C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ClassesAndObjectsGameTwentyOne\ClassesAndObjectsGameTwentyOne\obj\Debug\ClassesAndObjectsGameTwentyOne.exe
 C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ClassesAndObjectsGameTwentyOne\ClassesAndObjectsGameTwentyOne\obj\Debug\ClassesAndObjectsGameTwentyOne.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ClassesAndObjectsGameTwentyOne\ClassesAndObjectsGameTwentyOne\bin\Debug\Casino.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ClassesAndObjectsGameTwentyOne\ClassesAndObjectsGameTwentyOne\obj\Debug\ClassesAndObjectsGameTwentyOne.csproj.CopyComplete
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ClassesAndObjectsGameTwentyOne\ClassesAndObjectsGameTwentyOne\bin\Debug\Casino.dll

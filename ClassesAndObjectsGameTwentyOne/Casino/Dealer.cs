@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace ClassesAndObjectsGameTwentyOne
+namespace Casino
 {
     public class Dealer
     {
@@ -22,7 +22,7 @@ namespace ClassesAndObjectsGameTwentyOne
             // Example of using System.IO (i.e logging).
             using (StreamWriter file = new StreamWriter(@"C:\Users\jlomb\Documents\log\TwentyOneLog.txt", true)) 
             {
-                file.WriteLine(DateTime.Now); // Example of DateTime when logging. 
+                file.WriteLine(DateTime.Now); // Example of DateTime data type when logging. 
                 file.WriteLine(card);
             }
             Deck.Cards.RemoveAt(0); // We then remove it.

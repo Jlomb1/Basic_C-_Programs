@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.IO;
+using Casino;
+using Casino.ClassesAndObjectsGameTwentyOne;
 
 namespace ClassesAndObjectsGameTwentyOne
 {
@@ -11,6 +8,8 @@ namespace ClassesAndObjectsGameTwentyOne
     {
         static void Main(string[] args)
         {
+            const string casinoName = "Grand Hotel and Casino";
+
             Console.WriteLine("Welcome to the Atomic Wrangler Hotel and Casino. Let\'s start by telling me your name. ");
             string playerName = Console.ReadLine();
 
