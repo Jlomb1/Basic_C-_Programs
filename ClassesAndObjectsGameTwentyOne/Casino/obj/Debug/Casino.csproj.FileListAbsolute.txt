@@ -3,3 +3,4 @@ C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ClassesAndObjectsGame
 C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ClassesAndObjectsGameTwentyOne\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
 C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ClassesAndObjectsGameTwentyOne\Casino\obj\Debug\Casino.dll
 C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ClassesAndObjectsGameTwentyOne\Casino\obj\Debug\Casino.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ClassesAndObjectsGameTwentyOne\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache

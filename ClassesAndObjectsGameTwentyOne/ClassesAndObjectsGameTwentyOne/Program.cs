@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using Casino;
 using Casino.ClassesAndObjectsGameTwentyOne;
 
@@ -8,9 +9,9 @@ namespace ClassesAndObjectsGameTwentyOne
     {
         static void Main(string[] args)
         {
-            const string casinoName = "Grand Hotel and Casino";
+            const string casinoName = "Atomic Wrangler Hotel and Casino";
 
-            Console.WriteLine("Welcome to the Atomic Wrangler Hotel and Casino. Let\'s start by telling me your name. ");
+            Console.WriteLine("Welcome to the {0}. Let\'s start by telling me your name. ", casinoName);
             string playerName = Console.ReadLine();
 
             Console.WriteLine("And how much money did you bring today?");
@@ -22,6 +23,11 @@ namespace ClassesAndObjectsGameTwentyOne
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
             {
                 Player player = new Player(playerName, bank);
+                player.Id = Guid.NewGuid(); // Globaly Unique Identifier 
+                using (StreamWriter file = new StreamWriter(@"C:\Users\jlomb\Documents\log\TwentyOneLog.txt", true))
+                {
+                    file.WriteLine(player.Id); // Example of Guid player.Id data being logged.  
+                }
                 Game game = new TwentyOneGame();
                 game += player;
                 player.IsActivelyPlaying = true;

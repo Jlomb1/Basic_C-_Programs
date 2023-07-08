@@ -26,7 +26,7 @@ namespace Casino
         public string Name { get; set; }
         public bool IsActivelyPlaying { get; set; }
         public bool Stay { get; set; }
-
+        public Guid Id { get; set; }
         public bool Bet(int amount)
         {
             if (Balance - amount < 0)
