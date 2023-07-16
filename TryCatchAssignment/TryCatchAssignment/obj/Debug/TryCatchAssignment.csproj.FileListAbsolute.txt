@@ -1,0 +1,7 @@
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe.config
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\bin\Debug\TryCatchAssignment.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.AssemblyReference.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.csproj.CoreCompileInputs.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\TryCatchAssignment\TryCatchAssignment\obj\Debug\TryCatchAssignment.pdb
