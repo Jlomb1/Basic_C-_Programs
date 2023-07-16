@@ -1,0 +1,14 @@
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ScoresDotNetCoreExp\ScoresDotNetCoreExp\bin\Debug\netcoreapp3.1\ScoresDotNetCoreExp.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ScoresDotNetCoreExp\ScoresDotNetCoreExp\bin\Debug\netcoreapp3.1\ScoresDotNetCoreExp.deps.json
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ScoresDotNetCoreExp\ScoresDotNetCoreExp\bin\Debug\netcoreapp3.1\ScoresDotNetCoreExp.runtimeconfig.json
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ScoresDotNetCoreExp\ScoresDotNetCoreExp\bin\Debug\netcoreapp3.1\ScoresDotNetCoreExp.runtimeconfig.dev.json
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ScoresDotNetCoreExp\ScoresDotNetCoreExp\bin\Debug\netcoreapp3.1\ScoresDotNetCoreExp.dll
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ScoresDotNetCoreExp\ScoresDotNetCoreExp\bin\Debug\netcoreapp3.1\ScoresDotNetCoreExp.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ScoresDotNetCoreExp\ScoresDotNetCoreExp\obj\Debug\netcoreapp3.1\ScoresDotNetCoreExp.csproj.AssemblyReference.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ScoresDotNetCoreExp\ScoresDotNetCoreExp\obj\Debug\netcoreapp3.1\ScoresDotNetCoreExp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ScoresDotNetCoreExp\ScoresDotNetCoreExp\obj\Debug\netcoreapp3.1\ScoresDotNetCoreExp.AssemblyInfoInputs.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ScoresDotNetCoreExp\ScoresDotNetCoreExp\obj\Debug\netcoreapp3.1\ScoresDotNetCoreExp.AssemblyInfo.cs
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ScoresDotNetCoreExp\ScoresDotNetCoreExp\obj\Debug\netcoreapp3.1\ScoresDotNetCoreExp.csproj.CoreCompileInputs.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ScoresDotNetCoreExp\ScoresDotNetCoreExp\obj\Debug\netcoreapp3.1\ScoresDotNetCoreExp.dll
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ScoresDotNetCoreExp\ScoresDotNetCoreExp\obj\Debug\netcoreapp3.1\ScoresDotNetCoreExp.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ScoresDotNetCoreExp\ScoresDotNetCoreExp\obj\Debug\netcoreapp3.1\ScoresDotNetCoreExp.genruntimeconfig.cache
