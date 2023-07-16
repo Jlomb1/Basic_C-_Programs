@@ -8,3 +8,5 @@ C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ClassesAndObjectsGame
 C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ClassesAndObjectsGameTwentyOne\ClassesAndObjectsGameTwentyOne\bin\Debug\Casino.pdb
 C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ClassesAndObjectsGameTwentyOne\ClassesAndObjectsGameTwentyOne\obj\Debug\ClassesAndObjectsGameTwentyOne.csproj.CopyComplete
 C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ClassesAndObjectsGameTwentyOne\ClassesAndObjectsGameTwentyOne\bin\Debug\Casino.dll
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ClassesAndObjectsGameTwentyOne\ClassesAndObjectsGameTwentyOne\bin\Debug\System.Data.SqlClient.dll
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\ClassesAndObjectsGameTwentyOne\ClassesAndObjectsGameTwentyOne\bin\Debug\System.Data.SqlClient.xml
