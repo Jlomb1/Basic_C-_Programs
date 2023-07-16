@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qzmqjXoya4RcGfujznjHlnKoKuUiGrnYm/lixJrHJhqGsj/49sRMvcydrRJfM+QBbd8wlqTT1gNmOUE41rGQCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jlomb\\OneDrive\\Documents\\GitHub\\Basic_C#_Programs\\WebApplicationDotNetCoreExp\\WebApplicationDotNetCoreExp\\WebApplicationDotNetCoreExp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jlomb\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

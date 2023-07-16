@@ -1,0 +1,29 @@
+﻿<!-- Example from the HomeController.cs file for Index utilizing the List -->
+@*@using System.Collections.Generic
+@model List<string>
+
+@foreach (var name in Model)
+            {
+               <h1>
+                   @name
+               </h1>
+            }*@
+<!-- Another Example from the HomeController.cs file -->
+@*@model int 
+  <h1>
+      @Model
+  </h1>*@
+
+@model  WebApplication2MVC.Models.User
+    <h1>
+        @Model.Id
+    </h1>
+    <h1>
+        @Model.FirstName
+    </h1>
+    <h1>
+        @Model.LastName
+    </h1>
+    <h1>
+        @Model.Age
+    </h1>
