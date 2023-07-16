@@ -27,7 +27,7 @@ add, and remove any stored data.</p>
 <p>The Twenty One Game is a command-line application where you can play a game of Twenty One with the program. You are able to start with an amount <br>
 and place a bet and then you are dealt cards to see if you or the dealer win!</p>
 <br>
-<br>
+<h4>Summary</h4>
 <p>I have gained a lot of technical skills going through the C# and .NET Boot Camp offered by The Tech Academy. I have learned anywhere from a <br>
 simple console app, to full blown ASP.NET MVC web app that uses Entity Framework and many other packages inbetween. I have learned so many terms and <br>
 concepts like, arrays, abstract classes, branching, boolean logic, constructors, exceptions, lambda expressions, loops, iterations, polymorphism, <br>
