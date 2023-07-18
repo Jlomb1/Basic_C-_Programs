@@ -1,0 +1,12 @@
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\CodeFirstFinalChallenge\CodeFirstFinalChallenge\bin\Debug\CodeFirstFinalChallenge.exe.config
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\CodeFirstFinalChallenge\CodeFirstFinalChallenge\bin\Debug\CodeFirstFinalChallenge.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\CodeFirstFinalChallenge\CodeFirstFinalChallenge\bin\Debug\CodeFirstFinalChallenge.pdb
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\CodeFirstFinalChallenge\CodeFirstFinalChallenge\bin\Debug\EntityFramework.dll
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\CodeFirstFinalChallenge\CodeFirstFinalChallenge\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\CodeFirstFinalChallenge\CodeFirstFinalChallenge\bin\Debug\EntityFramework.xml
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\CodeFirstFinalChallenge\CodeFirstFinalChallenge\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\CodeFirstFinalChallenge\CodeFirstFinalChallenge\obj\Debug\CodeFirstFinalChallenge.csproj.AssemblyReference.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\CodeFirstFinalChallenge\CodeFirstFinalChallenge\obj\Debug\CodeFirstFinalChallenge.csproj.CoreCompileInputs.cache
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\CodeFirstFinalChallenge\CodeFirstFinalChallenge\obj\Debug\CodeFirstFinalChallenge.csproj.CopyComplete
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\CodeFirstFinalChallenge\CodeFirstFinalChallenge\obj\Debug\CodeFirstFinalChallenge.exe
+C:\Users\jlomb\OneDrive\Documents\GitHub\Basic_C#_Programs\CodeFirstFinalChallenge\CodeFirstFinalChallenge\obj\Debug\CodeFirstFinalChallenge.pdb
