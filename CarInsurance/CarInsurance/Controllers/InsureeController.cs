@@ -14,6 +14,11 @@ namespace CarInsurance.Controllers
     {
         private InsuranceEntities db = new InsuranceEntities();
 
+        public ActionResult Admin()
+        {
+            return View(db.Tables.ToList());
+        }
+
         // GET: Insuree
         public ActionResult Index()
         {
@@ -130,15 +135,15 @@ namespace CarInsurance.Controllers
         {
             decimal quote = 50;
 
-            if (table.DateOfBirth.Year <= 18)
+            if (DateTime.Now.Year - table.DateOfBirth.Year <= 18)
             {
                 quote += 100;
             }
-            if (table.DateOfBirth.Year >= 19 && table.DateOfBirth.Year <= 25)
+            if (DateTime.Now.Year - table.DateOfBirth.Year >= 19 && DateTime.Now.Year - table.DateOfBirth.Year <= 25)
             {
                 quote += 50;
             }
-            if (table.DateOfBirth.Year >= 26)
+            if (DateTime.Now.Year - table.DateOfBirth.Year >= 26)
             {
                 quote += 25;
             }
@@ -150,28 +155,28 @@ namespace CarInsurance.Controllers
             {
                 quote += 25;
             }
-            if (table.CarMake == "porsche")
+            if (table.CarMake.ToLower() == "porsche")
             {
                 quote += 25;
             }
-            if (table.CarMake == "porsche" && table.CarModel == "911 carrera")
+            if (table.CarMake.ToLower() == "porsche" && table.CarModel.ToLower() == "911 carrera")
             {
                 quote += 25;
             }
             if (table.SpeedingTickets > 0)
             {
-                int tickets = table.SpeedingTickets;
-                int ticket = tickets * 10;
+                //int tickets = table.SpeedingTickets;
+                //int ticket = tickets * 10;
 
-                quote += ticket;
+                quote += table.SpeedingTickets * 10;
             }
             if (table.DUI == true)
             {
-                quote *= 0.25m;
+                quote *= 1.25m;
             }
             if (table.CoverageType == true)
             {
-                quote *= 0.50m;
+                quote *= 1.50m;
             }
             return table.Quote = quote;
         }
