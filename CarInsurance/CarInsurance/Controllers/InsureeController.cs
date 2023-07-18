@@ -130,7 +130,8 @@ namespace CarInsurance.Controllers
             }
             base.Dispose(disposing);
         }
-
+        
+        // ALL CALCULATIONS FOR A GENERATED QUOTE ------
         public decimal QuoteDataInput(Table table)
         {
             decimal quote = 50;
